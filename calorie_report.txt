@@ -1,0 +1,10 @@
+Daily Calorie Tracker Report
+Date: 2025-10-20 04:46:35
+
+Meal	Calories
+-----------------------------
+breakfasst	200.0
+dinner	400.0
+-----------------------------
+Total:	600.0
+Average:	300.0
