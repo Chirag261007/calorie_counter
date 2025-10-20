@@ -1,6 +1,6 @@
 
 # tracker.py
-# Name: [Your Name]
+# Name: chirag
 # Date: 2025-10-20
 # Project: Daily Calorie Tracker
 
@@ -77,4 +77,5 @@ if save_report == "yes":
         file.write("-----------------------------\n")
         file.write(f"Total:\t{total_calories}\n")
         file.write(f"Average:\t{round(average_calories, 2)}\n")
+
 
